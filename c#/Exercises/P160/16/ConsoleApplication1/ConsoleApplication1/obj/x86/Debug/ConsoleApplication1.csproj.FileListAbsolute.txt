@@ -1,0 +1,4 @@
+C:\Users\user1\Desktop\Files\ComputerScience\c#\Exercises\P160\16\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\user1\Desktop\Files\ComputerScience\c#\Exercises\P160\16\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user1\Desktop\Files\ComputerScience\c#\Exercises\P160\16\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\user1\Desktop\Files\ComputerScience\c#\Exercises\P160\16\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
